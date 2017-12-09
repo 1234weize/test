@@ -1,2 +1,3 @@
-this is test¡£
-´ËÊ±´Ë¿ÌÕıÔÚWindowsÉÏ½øĞĞ±àÒë¡£
+this is testã€‚
+æ­¤æ—¶æ­¤åˆ»æ­£åœ¨Windowsä¸Šè¿›è¡Œç¼–è¯‘ã€‚
+now firefox.
